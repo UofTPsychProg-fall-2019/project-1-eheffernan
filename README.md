@@ -1,1 +1,9 @@
 # project-1-eheffernan
+
+## Experiment Overview
+The purpose of this experiment is to study category learning. Participants are presented with flower stimuli, which they must learn to sort (through trial and error) into two categories ("prefers sun" and "prefers shade"). Stimuli are either category prototypes, rule-following items (which differ from their category prototype along one dimension), and exception items (which are more similar to the prototype from the opposite category). 
+This experiment is divided into three parts. The first contains three learning blocks in which the participants receive feedback as they categorize the stimuli (each block contains 48 images). In each of the three blocks, the proportion of prototype, rule-following, and exception items differs. Part two comprises a "no feedback" block to assess how much participants have learned. Finally, in part three participants complete a recollection block in which they must indicate if the presented flowers are new or old. They are then asked to indicate their learning strategy. All participant data is saved in a .csv file. 
+
+## Submission File Breakdown
+I have included both a "lite" and "full" version of this experiment, as indicated in the PsychoPy file names. The "Images" folder contains the flower stimuli, the "Params" folder defines the images per trial, and the "Instructions" folder contains the images that are presented to guide the participant through the experiment. I've been having some issues with different versions of PsychoPy not working since I updated my computer; the submitted version was created using PsychoPy 3.1.2. As this experiment was designed to be run online, it was built entirely using the PsychoPy builder, and its functionality is augmented using code blocks. A full online version of the experiment can be found at [this link](http://thedrsmack.com/psych/participate/8462154cad26
+). 
